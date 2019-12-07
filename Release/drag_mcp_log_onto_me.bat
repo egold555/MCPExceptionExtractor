@@ -1,0 +1,1 @@
+java -jar MCPExceptionExtractor.jar %1
